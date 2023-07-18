@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on : https://github.com/lolguy91/h0r.net
 - 🌱 I’m currently learning : osdev
 - 🤔 I’m looking for help with : https://github.com/lolguy91/h0r.net
-- 📫 my Discord: lolguy91#6299
+- 📫 my Discord: lolguy91
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: all facts ar fun
 
