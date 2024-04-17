@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on : multiple things
-- 🌱 I’m currently learning : osdev, CPU Dev, Game Dev
+- 🌱 I’m currently learning : lots of stuff
 - 📫 my Discord: g_dn_w
 - 😄 Pronouns: ő/őt(Hungarian LMAO)
 - ⚡ Fun fact: all facts ar fun
