@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on : multiple things
-- 🌱 I’m currently learning : lots of stuff
+- 🔭 I’m currently working on : h0r.net
+- 🌱 I’m currently learning : osdev stuff
 - 📫 my Discord: g_dn_w
 - 😄 Pronouns: ő/őt(Hungarian LMAO)
-- ⚡ Fun fact: all facts ar fun
+- ⚡ Fun fact: "kaksteist kuut" - Life of Boris
 
 [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/lolguy91/langs)](https://githubtrends.io)
 [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/lolguy91/repos?time_range=one_year&group=other&loc_metric=changed&theme=dark)](https://githubtrends.io)
