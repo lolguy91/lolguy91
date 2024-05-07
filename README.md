@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on : h0r.net
-- 🌱 I’m currently learning : osdev stuff
+- 🔭 I’m currently working on : [RoidsOS](https://github.com/roidsos/RoidsOS)(star plz)
+- 🌱 I’m currently learning : OSDev stuff
 - 📫 my Discord: g_dn_w
 - 😄 Pronouns: ő/őt(Hungarian LMAO)
 - ⚡ Fun fact: "kaksteist kuut" - Life of Boris
