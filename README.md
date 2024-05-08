@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning : OSDev stuff
 - 📫 my Discord: g_dn_w
 - 😄 Pronouns: ő/őt(Hungarian LMAO)
-- ⚡ Fun fact: "kaksteist kuut" - Life of Boris
+- ⚡ Fun fact: "Among US, SUS" - literally everyone
 
 [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/lolguy91/langs)](https://githubtrends.io)
 [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/lolguy91/repos?time_range=one_year&group=other&loc_metric=changed&theme=dark)](https://githubtrends.io)
