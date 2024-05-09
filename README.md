@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning : OSDev stuff
 - 📫 my Discord: g_dn_w
 - 😄 Pronouns: ő/őt(Hungarian LMAO)
-- ⚡ Fun fact: "Among US, SUS" - literally everyone
+- ⚡ Fun fact: If I could permanently delete a meme, it would be Skibidi Toilet
 
 # Me:
 ![lolguy91's Stats](https://github-readme-stats.vercel.app/api?username=lolguy91&theme=gruvbox&show_icons=true&hide_border=true&count_private=true)</br>
