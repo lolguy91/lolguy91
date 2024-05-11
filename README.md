@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning : OSDev stuff
 - 📫 my Discord: g_dn_w
 - 😄 Pronouns: ő/őt(Hungarian LMAO)
-- ⚡ Fun fact: "Meg be fázz dinnye!" - ne$$ai
+- ⚡ Fun fact: Asriel has the coolest name in all of Undertale
 
 # Me:
 ![lolguy91's Stats](https://github-readme-stats.vercel.app/api?username=lolguy91&theme=gruvbox&show_icons=true&hide_border=true&count_private=true)</br>
