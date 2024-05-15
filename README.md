@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning : OSDev stuff
 - 📫 my Discord: g_dn_w
 - 😄 Pronouns: ő/őt(Hungarian LMAO)
-- 🚰 Splash message: RIP Terry A. Davis
+- 🚰 Splash message: cool Zig features day 1: defer, it let's you make a statement that executes when the function you are in returns, good for closing files and shit
 
 # Me:
 ![lolguy91's Stats](https://github-readme-stats.vercel.app/api?username=lolguy91&theme=gruvbox&show_icons=true&hide_border=true&count_private=true)</br>
