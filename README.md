@@ -4,7 +4,8 @@
 - 🌱 I’m currently learning : OSDev stuff
 - 📫 my Discord: g_dn_w
 - 😄 Pronouns: ő/őt(Hungarian LMAO)
-- 🚰 Splash message: Kevin fucking finally falling off 
+- 🚰 Splash message: Kevin fucking finally falling off
+- 🕸️ My empty-ass website: https://lolguy91.github.io/lolguy91/
 
 # Me:
 ![lolguy91's Stats](https://github-readme-stats.vercel.app/api?username=lolguy91&theme=gruvbox&show_icons=true&hide_border=true&count_private=true)</br>
