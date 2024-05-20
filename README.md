@@ -9,7 +9,7 @@
 
 # Me:
 ![lolguy91's Stats](https://github-readme-stats.vercel.app/api?username=lolguy91&theme=gruvbox&show_icons=true&hide_border=true&count_private=true)</br>
-[![GitHub Streak](https://streak-stats.demolab.com?user=lolguy91&theme=highcontrast&background=45%2C1A00EB%2C1AEB00)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=lolguy91&theme=highcontrast&background=69%2C044E00%2C00847E)](https://git.io/streak-stats)
 # The guy Im looking to beat ([Kevin Alavik](https://github.com/kevinalavik))
 ![kevinalavik's Stats](https://github-readme-stats.vercel.app/api?username=kevinalavik&theme=gruvbox&show_icons=true&hide_border=true&count_private=true)</br>
 [![GitHub Streak](https://streak-stats.demolab.com?user=kevinalavik&theme=highcontrast&background=45%2C930000%2C84006B)](https://git.io/streak-stats)
