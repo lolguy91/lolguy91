@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning : OSDev stuff
 - 📫 my Discord: g_dn_w
 - 😄 Pronouns: ő/őt(Hungarian LMAO)
-- 🚰 Splash message: Safelangs are not for kernel dev
+- 🚰 Splash message: PAAAAAAAAAAAAAAAAging is hell.
 - 🕸️ My empty-ass website: https://lolguy91.github.io/lolguy91/
 
 # 💻 Good Stack(Tech Im good at):
