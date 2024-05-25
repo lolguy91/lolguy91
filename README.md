@@ -1,7 +1,7 @@
 # Hi I ma Lolguy91 👋
 
-- 🔭 I’m currently working on : [RoidsOS](https://github.com/roidsos/RoidsOS)(star plz)
-- 🌱 I’m currently learning : OSDev stuff
+- 🔭 I’m currently working on : [RoidsOS](https://github.com/roidsos/RoidsOS)
+- 🌱 I’m currently learning : Operating Systems development
 - 📫 my Discord: g_dn_w
 - 😄 Pronouns: ő/őt(Hungarian LMAO)
 - 🚰 Splash message: Mental Outlaw is good youtuber
