@@ -1,4 +1,4 @@
-# Hi I ma Lolguy91 👋
+# Hi Im Lolguy91 👋
 
 - 🔭 I’m currently working on : [RoidsOS](https://github.com/roidsos/RoidsOS)
 - 🌱 I’m currently learning : Operating Systems development
