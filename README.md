@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning : Operating Systems development
 - 📫 my Discord: g_dn_w
 - 😄 Pronouns: ő/őt(Hungarian LMAO)
-- 🚰 Splash message: I like small twitch streams playing Earthbound or Mother 3(R/oddlyspecific lmao)
+- 🚰 Splash message: looking into USB...
 - 🕸️ My empty-ass website: https://lolguy91.github.io/lolguy91/
 
 # 💻 Good Stack(Tech Im good at):
