@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning : Operating Systems development
 - 📫 my Discord: g_dn_w
 - 😄 Pronouns: ő/őt(Hungarian LMAO)
-- 🚰 Splash message: I'm going down the device support rabbit hole
+- 🚰 Splash message: Lua is good actually
 - 🕸️ My empty-ass website: https://lolguy91.github.io/lolguy91/
 
 # 💻 Good Stack(Tech Im good at):
