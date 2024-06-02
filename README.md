@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning : Operating Systems development
 - 📫 my Discord: g_dn_w
 - 😄 Pronouns: ő/őt(Hungarian LMAO)
-- 🚰 Splash message: Lua is good actually
+- 🚰 Splash message: The difference between a reverse engineer and a backwards engineer is that the reverse engineer thinks, but the backwards engineer doesnt
 - 🕸️ My empty-ass website: https://lolguy91.github.io/lolguy91/
 
 # 💻 Good Stack(Tech Im good at):
