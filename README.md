@@ -1,10 +1,10 @@
 # Hi Im Lolguy91 👋
 
-- 🔭 I’m currently working on : [RoidsOS](https://github.com/roidsos/RoidsOS)
+- 🔭 I’m currently working on : [RoidsOS](https://github.com/roidsos/RoidsOS) [Hornet](https://github.com/roidsos/h0r.net)
 - 🌱 I’m currently learning : Operating Systems development
 - 📫 my Discord: g_dn_w
 - 😄 Pronouns: ő/őt(Hungarian LMAO)
-- 🚰 Splash message: The difference between a reverse engineer and a backwards engineer is that the reverse engineer thinks, but the backwards engineer doesnt
+- 🚰 Splash message: Go design your own OS
 - 🕸️ My empty-ass website: https://lolguy91.github.io/lolguy91/
 
 # 💻 Good Stack(Tech Im good at):
