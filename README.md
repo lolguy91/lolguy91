@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning : Operating Systems development
 - 📫 my Discord: g_dn_w
 - 😄 Pronouns: ő/őt(Hungarian LMAO)
-- 🚰 Splash message: [UDI](http://project-udi.org/) is hard to find due to all the stuff that has the same name
+- 🚰 Splash message: CDI has no English docs... 😢
 - 🕸️ My empty-ass website: https://lolguy91.github.io/lolguy91/
 
 # 💻 Good Stack(Tech Im good at):
