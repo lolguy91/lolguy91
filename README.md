@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning : Operating Systems development
 - 📫 my Discord: g_dn_w
 - 😄 Pronouns: ő/őt(Hungarian LMAO)
-- 🚰 Splash message: I'm trying to fix an annoying, completely random syscall crash
+- 🚰 Splash message: I think I have to rewrite my scheduler...
 - 🕸️ My empty-ass website: https://lolguy91.github.io/lolguy91/
 
 # 💻 Good Stack(Tech Im good at):
