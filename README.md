@@ -1,9 +1,9 @@
 # Hi Im Lolguy91 👋
 
 - 🔭 I’m currently working on : [RoidsOS](https://github.com/roidsos/RoidsOS) [Hornet](https://github.com/roidsos/h0r.net)
-- 🌱 I’m currently learning : Operating Systems development
-- 📫 my Discord: g_dn_w
-- 😄 Pronouns: ő/őt(Hungarian LMAO)
+- 🌱 I’m currently learning : OSDev
+- 📫 my Discord: g_dn_w/the_chosen_deltarune_player
+- 😄 Pronouns: ő/őt
 - 🚰 Splash message: I think I have to rewrite my scheduler...
 - 🕸️ My empty-ass website: https://lolguy91.github.io/lolguy91/
 
