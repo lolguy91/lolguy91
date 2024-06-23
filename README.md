@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning : OSDev
 - 📫 my Discord: g_dn_w/the_chosen_deltarune_player
 - 😄 Pronouns: ő/őt
-- 🚰 Splash message: I'm making a better flanterm...
+- 🚰 Splash message: why TF isn't Zig on 6502?
 - 🕸️ My empty-ass website: https://lolguy91.github.io/lolguy91/
 
 # 💻 Good Stack(Tech Im good at):
