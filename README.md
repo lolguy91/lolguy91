@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on : [RoidsOS](https://github.com/roidsos/RoidsOS) [Hornet](https://github.com/roidsos/h0r.net)
 - 🌱 I’m currently learning : OSDev
-- 📫 my Discord: g_dn_w/the_chosen_deltarune_player
+- 📫 my Discord: cannonasriel
 - 😄 Pronouns: ő/őt
 
 # 💻 Good Stack(Tech Im good at):
