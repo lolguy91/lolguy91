@@ -1,7 +1,7 @@
 # Hi Im Lolguy91 👋
 
 - 🔭 I’m currently working on : [RoidsOS](https://github.com/roidsos/RoidsOS) [Hornet](https://github.com/roidsos/h0r.net)
-- 🌱 I’m currently learning : OSDev
+- 🌱 I’m currently learning : OSDev, Web dev
 - 📫 my Discord: cannonasriel
 - 😄 Pronouns: ő/őt
 
