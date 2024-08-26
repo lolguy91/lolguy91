@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on : [RoidsOS](https://github.com/roidsos/RoidsOS) [Hornet](https://github.com/roidsos/h0r.net)
 - 🌱 I’m currently learning : OSDev, Web dev
 - 📫 my Discord: cannonasriel
-- 😄 Pronouns: ő/őt
+- 😄 Pronouns: he/him
 
 # 💻 Good Stack(Tech Im good at):
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) 
