@@ -1,6 +1,6 @@
 # Hi Im Lolguy91 👋
 
-- 🔭 I’m currently working on : [\<SECRET\>](https://raw.githubusercontent.com/lolguy91/lolguy91/main/soon.txt)
+- 🔭 I’m currently working on : [\<SECRET\>](https://raw.githubusercontent.com/lolguy91/lolguy91/main/azzy.md)
 - 🌱 I’m currently learning : OSDev, Web dev
 - 📫 my Discord: cannonasriel
 - 😄 Pronouns: he/him
