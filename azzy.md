@@ -1,3 +1,3 @@
 Asriel: goat boy; has a dream of consuming the whole underground
 
-including AurixOS,Flanterm,most t
+including AurixOS,Flanterm,most tu
